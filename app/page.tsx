@@ -2,7 +2,7 @@ import Header from "@/components/Header";
 
 export default function Home() {
   return (
-    <div className="">
+    <div className="bg-[#091B18] min-h-screen flex flex-col">
 
       <Header />
     </div>
