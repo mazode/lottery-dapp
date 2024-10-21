@@ -5,7 +5,6 @@ export default function Home() {
     <div className="">
 
       <Header />
-      <h1>Lottery Dapp</h1>
     </div>
   );
 }

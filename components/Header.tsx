@@ -3,7 +3,9 @@ import React from 'react'
 function Header() {
   return (
     <div>
-      This is a header
+      <div>
+        <img className='rounded-full' src="https://github.com/mazode/lottery-dapp/blob/master/assets/image1.jpeg" alt="" />
+      </div>
     </div>
   )
 }
