@@ -4,7 +4,7 @@ function Header() {
   return (
     <div>
       <div>
-        <img className='rounded-full' src="https://github.com/mazode/lottery-dapp/blob/master/assets/image1.jpeg" alt="" />
+        <img className='rounded-full h-20 w-20 ' src="/logo.jpeg" alt="" />
       </div>
     </div>
   )
